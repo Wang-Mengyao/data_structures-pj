@@ -6,6 +6,11 @@
 #include"city_info.h"
 using namespace std;
 
+struct print_node{
+	int city;
+	int kth;
+};
+
 void which_way(vector<info>& c);
 void fast_way(vector<info>& c);
 void short_way(vector<info>& c);
