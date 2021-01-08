@@ -1,0 +1,9 @@
+Chongqing   Guangzhou   train   210   13:10   18:01
+Chongqing   Sichuan   train   210   09:10   12:01
+Guangzhou   Hubei   train   300   01:12   05:30
+Guangzhou   Hubei   train   400   19:12   21:30
+Sichuan   Hubei   train   720   13:00   15:00
+Sichuan   Beijing   aeroplane   1000   13:00   15:00
+Beijing   Chongqing   aeroplane   800   15:12   16:40
+Sichuan   Chongqing   aeroplane   1000   08:44   14:00
+Hubei

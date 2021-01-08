@@ -97,7 +97,7 @@ void add_f_or_t(vector<info>& c){
 	while(1){
 		cout<<"价格：";
 		cin>>cost;
-		if(cost==0){
+		if(cost<=0){
 			cout<<"请输入合理数字。"<<endl;
 			continue;
 		}

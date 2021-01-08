@@ -16,6 +16,6 @@ void fast_way(vector<info>& c);
 void short_way(vector<info>& c);
 void cheap_way(vector<info>& c);
 int find_city(vector<info>& c,string& n);
-int culculate_time(int a[],int b[]);
+int calculate_time(int a[],int b[]);
 
 #endif
